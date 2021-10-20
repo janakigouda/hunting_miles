@@ -1,0 +1,17 @@
+#container,
+.group,
+.form-group {
+    margin-top: 2rem;
+}
+
+label {
+    width: 20%;
+}
+
+.group {
+    margin-left: 5rem;
+}
+
+#view {
+    margin-top: 2rem;
+}

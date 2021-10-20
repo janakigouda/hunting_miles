@@ -1,0 +1,66 @@
+#navbar_emp {
+    color: #0f4c75;
+    margin-left: 4rem;
+}
+
+.detail_body {
+    margin-bottom: 5rem;
+    position: relative;
+}
+
+#module_name {
+    color: white;
+}
+
+#detail {
+    margin-left: 30rem;
+}
+
+
+/* elogin */
+
+.content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    /* Fallback color */
+    background: rgba(0, 0, 0, 0.5);
+    /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 50%;
+    padding: 20px;
+    margin-left: 24rem;
+    margin-bottom: 7rem;
+}
+
+input[type=email],
+input[type=password],
+input[type=text],
+select {
+    width: 100%;
+    padding: 5px 18px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    background-color: #0f4c75;
+    color: white;
+    padding: 12px 18px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #429dda;
+}
+
+hr {
+    background-color: #ccc;
+}
